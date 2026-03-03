@@ -87,6 +87,7 @@ tags
 *.jpg
 *.jpeg
 *.png
+!keymap_screenshot.png
 *.apng
 *.mng
 *.svg
